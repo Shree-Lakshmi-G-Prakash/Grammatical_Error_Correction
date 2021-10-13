@@ -1,0 +1,2 @@
+model_checkpoint_path: "bahdanau_model.ckpt"
+all_model_checkpoint_paths: "bahdanau_model.ckpt"
